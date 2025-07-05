@@ -1,0 +1,5 @@
+:root {
+  --sl-sidebar-width: 14rem;        /* default: 18rem */
+  --sl-sidebar-collapsed-width: 4rem;
+  --sl-toc-width: 4rem;            /* default: 18rem */
+}
