@@ -2,7 +2,7 @@
 
 The **DSA Handbook** is a structured and curated collection of notes and explanations on key topics in Data Structures and Algorithms. It is designed to serve as a quick reference and revision resource for competitive programming, interviews.
 
-[Go to Website](#)
+[Go to Website](https://sushruta19.github.io/dsa-handbook/)
 
 ## Features
 
