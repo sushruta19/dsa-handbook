@@ -5,10 +5,11 @@ description: A complete guide to Data Structures and Algorithms for students and
 
 # Welcome to the DSA Handbook
 
-This documentation site serves as a personal reference for mastering Data Structures and Algorithms — whether you're preparing for coding interviews or strengthening your core computer science concepts.
+This documentation site serves as a personal reference for mastering Data Structures and Algorithms — whether you're preparing for coding interviews, studying for GATE, or strengthening your core computer science concepts.
 
 ## What You'll Find Here
 
+- Time and space complexity analysis with examples  
 - Core data structures: Arrays, Linked Lists, Trees, Heaps, Tries, Graphs, and more  
 - Algorithmic paradigms: Sorting, Searching, Greedy, Divide & Conquer, Backtracking  
 - Dynamic Programming techniques and patterns  
